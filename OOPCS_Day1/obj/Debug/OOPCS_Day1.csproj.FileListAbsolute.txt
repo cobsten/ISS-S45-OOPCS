@@ -1,0 +1,4 @@
+C:\Users\wensong\Source\Repos\ISS-SA45-OOPCS-Day1\OOPCS_Day1\OOPCS_Day1\bin\Debug\OOPCS_Day1.exe.config
+C:\Users\wensong\Source\Repos\ISS-SA45-OOPCS\OOPCS_Day1\OOPCS_Day1\bin\Debug\OOPCS_Day1.exe.config
+D:\Source\Repos\Projects\OOPCS_Day1\OOPCS_Day1\bin\Debug\OOPCS_Day1.exe.config
+D:\Source\Repos\ISS-S45-OOPCS\OOPCS_Day1\bin\Debug\OOPCS_Day1.exe.config
